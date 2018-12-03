@@ -1,0 +1,93 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+<header>
+<identifier>humbug_10</identifier>
+<datestamp>2018-11-28T19:02:32Z</datestamp>
+<setSpec>humbug</setSpec>
+</header>
+<metadata>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Humming humbug.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus)</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1922</dateOther>
+  </originInfo>
+  <identifier type="local">humming_1922-vol-wun-suppl</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/humbug%3A10</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/humbug%3A10/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>humbug_1</identifier>
+<datestamp>2018-11-28T19:02:32Z</datestamp>
+<setSpec>humbug</setSpec>
+</header>
+<metadata>
+
+<mods version="3.5" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Humming humbug.</title>
+  </titleInfo>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus)</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>Publications by students</note>
+  <originInfo>
+    <publisher>The University of Tennessee Libraries, Knoxville</publisher>
+  </originInfo>
+  <originInfo>
+    <dateOther>1924-04-03</dateOther>
+  </originInfo>
+  <identifier type="local">humming_1924-04-03</identifier>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>The University of Tennessee Libraries, Special Collections, Knoxville</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition>This compilation is copyrighted by the University of
+Tennessee. Images, text, or other content downloaded from the
+collection may be freely used for non-profit educational
+and research purposes, or any other use falling
+within the purview of &quot;Fair Use.&quot; For any other use,
+contact the University of Tennessee Libraries. </accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/humbug%3A1</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/humbug%3A1/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record>
+</repository>
